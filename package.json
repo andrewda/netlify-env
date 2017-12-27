@@ -1,0 +1,9 @@
+{
+  "name": "netlify-env",
+  "version": "0.0.4",
+  "description": "Easily access netlify environment information",
+  "main": "index.js",
+  "repository": "https://github.com/andrewda/netlify-env",
+  "author": "Andrew Dassonville <dassonville.andrew@gmail.com>",
+  "license": "MIT"
+}
